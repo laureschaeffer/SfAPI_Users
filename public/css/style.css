@@ -69,8 +69,10 @@ main{
     color: #666666;
 }
 
-.plus a{
-    text-decoration: none;
+.plus{
     color: #c80c54;
-    font-size: 1.4rem;
+    font-size: 1.8rem;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
 }
